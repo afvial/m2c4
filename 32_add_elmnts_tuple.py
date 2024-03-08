@@ -15,3 +15,5 @@ print(title)
 print(sub_heading)
 print(content)
 print(status)
+
+print(post)
